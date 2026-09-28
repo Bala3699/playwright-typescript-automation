@@ -1,0 +1,18 @@
+# Remove the .example from the file extension before running
+# The base URL of the application instance to test
+APP_URL='http://your-server-ip:port'
+
+# CONTAINER
+INCUS_CONTAINER=your-container-name
+
+# USER
+APP_USER_USERNAME=your_username
+APP_USER_PASSWORD=your_password
+
+# ADMIN
+APP_ADMIN_USERNAME=your_admin_username
+APP_ADMIN_PASSWORD=your_admin_password
+
+# DOT_USER
+APP_DOT_USER_USERNAME=your_dot_user_username
+APP_DOT_USER_PASSWORD=your_dot_user_password
