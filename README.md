@@ -2,6 +2,48 @@
 
 ## Overview
 
+A personal UI test automation project built using **Playwright and TypeScript**.
+
+This repository demonstrates practical browser automation, test organization, reusable page objects, and UI validation using Playwright Test.
+
+This is an independent personal project and does not contain any company source code or proprietary automation code.
+
+## Technologies
+
+* TypeScript
+* Playwright
+* Node.js
+* Playwright Test
+
+## Project Structure
+
+```text
+playwright-typescript-automation/
+│
+├── tests/
+│   └── login.spec.ts
+│
+├── pages/
+│   └── LoginPage.ts
+│
+├── .env
+├── .env.example
+├── .gitignore
+├── package.json
+├── playwright.config.ts
+├── tsconfig.json
+└── README.md
+```
+
+## Automation
+
+The current automation focuses on login functionality and demonstrates:
+
+* Browser automa
+# Playwright TypeScript Automation
+
+## Overview
+
 A personal UI test automation project built with **Playwright and TypeScript** to practice and demonstrate modern web application testing, reusable automation design, and end-to-end test validation.
 
 This project is developed independently and does not contain or reproduce any proprietary company source code, test data, credentials, or internal application information.
