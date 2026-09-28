@@ -1,0 +1,6 @@
+tqdm
+requests
+paramiko
+simple_colors
+python-dotenv
+prettytable
